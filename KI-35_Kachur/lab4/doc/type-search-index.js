@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_35_Kachur.lab5","l":"Calculator"},{"p":"KI_35_Kachur.lab5","l":"CustomException"},{"p":"KI_35_Kachur.lab5","l":"main"}];updateSearchResults();
