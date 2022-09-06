@@ -10,7 +10,7 @@ public class main {
      * @param args string arguments
      */
     public static void main(String[] args) {
-        Box <?super Instrument> box = new Box<>();
+    	Vagon <?super Instrument> box = new Vagon<>();
         box.addInstrument(new SpareWheel(50,15,"Bosch"));
         box.addInstrument(new SpareWheel(100,12,"Ukrzaliznytsia"));
         box.addInstrument(new ConnectingRod(250,1,"Bosch"));

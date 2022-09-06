@@ -7,13 +7,13 @@ import java.util.ArrayList;
  * @version 1.0
  * @param <T>
  */
-public class Box <T extends Instrument>{
+public class Vagon <T extends Instrument>{
     private final ArrayList<T> arr;
 
     /**
      * Constructor
      */
-    public Box() {
+    public Vagon() {
        arr = new ArrayList<T>();
     }
 
