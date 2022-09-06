@@ -1,0 +1,2 @@
+method review() was called
+method show() was called
